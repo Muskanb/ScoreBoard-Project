@@ -1,7 +1,7 @@
 # Live Cricket Scoreboard Project
 
 This is a JavaFX application with mySql database. This application can be use in cricket match to update the score of the match and store all the match info in mySql database.
-
+....
 
 <br>
 
